@@ -1,0 +1,10 @@
+
+.BoxList-form {
+    margin: auto;
+    width: 75%;
+}
+
+.BoxList-box {
+    display: flex;
+    flex-wrap: wrap;
+}
